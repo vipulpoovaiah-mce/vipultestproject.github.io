@@ -1,0 +1,38 @@
+.jest1
+{
+    background-color: blue;
+    border-style: solid;
+    color: brown;
+    max-width: 500px;
+    font-size: 30px;
+    text-align: center;
+}
+.jest2
+{
+    background-color: blue;
+    border-style: solid;
+    color: brown;
+    max-width: 300px;
+    font-size: 30px;
+    padding: 10px;
+}
+.Button1
+{
+    border-style: solid;
+    background-color: darkgreen;
+    color: black;
+    max-width: 200px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+.Button2
+{
+    border-style: solid;
+    background-color: darkgreen;
+    color: black;
+    max-width: 200px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+}
