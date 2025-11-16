@@ -1,0 +1,55 @@
+button{
+    border: solid blue 2px;
+    background-color: dodgerblue;
+    text-align: center;
+    max-width: 100px;
+    color: white;
+    font-size: 18px;
+}
+#Counter{
+    border-style: solid;
+    max-width: 125px;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.container{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.Counter_number{
+    position: absolute;
+    width: 90%;
+    top: 10%;
+    left: 30%;
+    :hover{
+        opacity: 50%;
+        font-size: 120%;
+    }
+    :active{
+        opacity: 30%;
+    }
+}
+
+.history{
+    text-align: center;
+    width:10%;
+    height: 100%;
+    float:right;
+    padding-right: 50px;
+}
+#History_print{
+    text-align: center;
+}
+
+ul{
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+}
+label{
+    font-size: 24px;
+    font-weight: bold;
+}
